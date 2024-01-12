@@ -28,4 +28,8 @@ Defaultan a java a háttérben létrehoz egy alap, üres konctruktort. Azonban h
 ellátott konstruktort, akkor a default noarg konstruktor elvész, ezért érdemes egy ilyen "üres" konstruktort is írni -
 azonban érdemes ezt private-ra állítani, hogy ne lehessen a class-on kívülről piszkálni
 
+Getters, Setters:
+Adott osztályo belül levő metódusok amelyek az adott osztály fieldjeinek védelmére szolgálnak, biztosítva
+azok get és set funkcióinak külső elérését
+
  */
