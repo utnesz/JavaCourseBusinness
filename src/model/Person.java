@@ -10,6 +10,10 @@ public class Person {
     private Person spouse;
     private Pet pet;
 
+    // noarg constructor
+    public Person() {
+    }
+
     public Person(String firstName, String lastName, LocalDate dob) {
         this.firstName = firstName;
         this.lastName = lastName;

@@ -10,8 +10,8 @@ public class Person {
         private String myBigConstant = "";
         private String firstName = "Jerry";
         private String middleName = "Christopher";
-        private String lastName;
-        private LocalDate  dob;
+        public String lastName;
+        protected LocalDate  dob;
         private int age = 25;
         private long id;
         private char middleInitial = 'J';
