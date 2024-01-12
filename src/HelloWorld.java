@@ -1,6 +1,6 @@
 import model.Address;
-import model.Cat;
-import model.Dog;
+import specific.animals.Cat;
+import specific.animals.Dog;
 import model.Person;
 
 import java.time.LocalDate;
